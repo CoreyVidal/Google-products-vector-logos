@@ -6,8 +6,8 @@ Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg
 Source page: https://cloud.google.com/products/#g-suite  
 Wikimedia file: https://commons.wikimedia.org/wiki/File:Google_Keep_icon.svg  
 Wikipedia file: https://en.wikipedia.org/wiki/File:Google_Keep_icon.svg  
-Wikipedia article: https://en.wikipedia.org/wiki/Google_Keep
-Wikidata item: https://www.wikidata.org/wiki/Q7854718
+Wikipedia article: https://en.wikipedia.org/wiki/Google_Keep  
+Wikidata item: https://www.wikidata.org/wiki/Q7854718  
 
 
 Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
