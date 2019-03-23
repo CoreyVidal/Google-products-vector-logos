@@ -14,10 +14,10 @@ Wikipedia article: https://en.wikipedia.org/wiki/Google_Keep
 Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
 Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Keep.jpg  
 
-Changes:  
+###### Changes  
 `{{Vector version available|Google Keep icon.svg}}`
   . . _(Google Keep.jpg >> Google Keep icon.svg)_
 
-###### Source
+###### Source  
 Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg  
 Source page: https://cloud.google.com/products/#g-suite  
