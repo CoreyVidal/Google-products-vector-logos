@@ -14,8 +14,7 @@ Wikipedia article: https://en.wikipedia.org/wiki/Google_Keep
 Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
 Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Keep.jpg  
 
-Added:  
-
+Changes:  
 `{{Vector version available|Google Keep icon.svg}}`
   . . _(Google Keep.jpg >> Google Keep icon.svg)_
 
