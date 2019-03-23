@@ -5,6 +5,11 @@ A collection of only the highest quality and most accurate icons for various Goo
 SVGs must be validated by W3C Markup Validation Service:  
 https://validator.w3.org/
 
+##### Character Encoding  
+_Line 1, Column 1_: **Character encoding should be declared at the document level.**  
+`<?xml version="1.0" encoding="utf-8"?>`
+
+
 ##### Google Keep  
 Wikimedia file: https://commons.wikimedia.org/wiki/File:Google_Keep_icon.svg  
 Wikidata item: https://www.wikidata.org/wiki/Q7854718  
