@@ -48,15 +48,26 @@ Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg
 Source page: https://cloud.google.com/products/#g-suite  
 
 
-## In Illustrator
+## Editing in Adobe Illustrator (.ai)  
 Artboard (Adobe Illustrator) should be 192 x 192px  
 Artboard should start at the bottom-left (or top-left?) with coordinates 0,0  
 Remove all custom layer names  
 Swap any layer that uses Fill Opacity to regular Opacity  
 Replace any <image> layers with SVG Filters  
 Make sure to use only one instance of material-drop-shadow  
-
-
+  
+## Exporting from Adobe Illustrator (.svg)  
+File > Export > Export for Screens...  
+* Format = SVG  
+Format Settings > SVG:  
+* Styling: Inline Style  
+* Font: Convert To Outlines  
+* Images: Embed  
+* Object IDs: Layer Names  
+* Decimal: 5  
+* Minify: ☑  
+* Responsive: ☑  
+  
 ## After Exporting from Illustrator  
 Open in Visual Studio Code  
 Replace/update lines 1 and 2  
