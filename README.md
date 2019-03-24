@@ -71,5 +71,8 @@ Format Settings > SVG:
   
 ## After Exporting from Illustrator  
 Open in Visual Studio Code  
+Toggle Word Wrap: Alt + Z  
+Format Document: Alt + Shift + F  
 Replace/update lines 1 and 2  
 Remove `name="material-drop-shadow"`  
+Check there's no floating point errors  
