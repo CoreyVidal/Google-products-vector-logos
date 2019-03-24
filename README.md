@@ -59,6 +59,7 @@ Make sure to use only one instance of material-drop-shadow
 ## Exporting from Adobe Illustrator (.svg)  
 File > Export > Export for Screens...  
 * Format = SVG  
+  
 Format Settings > SVG:  
 * Styling: Inline Style  
 * Font: Convert To Outlines  
