@@ -76,3 +76,7 @@ Format Document: Alt + Shift + F
 Replace/update lines 1 and 2  
 Remove `name="material-drop-shadow"`  
 Check there's no floating point errors  
+
+
+## Replacing existing media
+On Wikimedia Commons, check https://commons.wikimedia.org/wiki/Special:GlobalUsage
