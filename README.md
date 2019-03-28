@@ -25,7 +25,7 @@ SVGs must not contain embedded image rasters.
 ###### Example:  
 `<image xlink:href="data:image/png;base64,iVBORw0KGgoAAAElFTkSuQmCC" />`  
   
-### Tips from Wikimedia Commons  
+## Wikimedia Resources  
 https://commons.wikimedia.org/wiki/Help:Illustrator  
 
 ## Editing in Adobe Illustrator (.ai)  
