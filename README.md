@@ -2,7 +2,7 @@
 A collection of only the highest quality and most accurate icons for various Google products.  
 
 
-### Validation  
+## Validation  
 #### W3C SVG Validator  
 SVGs must be validated by W3C Markup Validation Service:  
 https://validator.w3.org/  
@@ -11,7 +11,7 @@ https://validator.w3.org/
 SVGs must be validated by Wikimedia Commons SVG Checker:  
 https://commons.wikimedia.org/w/index.php?title=Commons:Commons_SVG_Checker&withJS=MediaWiki:CommonsSvgChecker.js  
   
-### Requirements  
+## Requirements  
 #### Character Encoding  
 Character encoding shall be declared at the document level.  
 _Line 1, Column 1_: `<?xml version="1.0" encoding="utf-8"?>`  
@@ -25,7 +25,7 @@ SVGs must not contain embedded image rasters.
 ###### Example:  
 `<image xlink:href="data:image/png;base64,iVBORw0KGgoAAAElFTkSuQmCC" />`  
   
-#### Tips from Wikimedia Commons  
+### Tips from Wikimedia Commons  
 https://commons.wikimedia.org/wiki/Help:Illustrator  
 
 ## Editing in Adobe Illustrator (.ai)  
@@ -58,7 +58,6 @@ Format Document: Alt + Shift + F
 Replace/update lines 1 and 2  
 Remove `name="material-drop-shadow"`  
 Check there's no floating point errors  
-
 
 ## Replacing existing media
 On Wikimedia Commons, check https://commons.wikimedia.org/wiki/Special:GlobalUsage
