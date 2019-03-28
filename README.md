@@ -47,14 +47,13 @@ Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Keep.jp
 Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg  
 Source page: https://cloud.google.com/products/#g-suite  
 
-#### Google Dup  
+#### Google Duo  
 Wikimedia file: https://commons.wikimedia.org/wiki/File:GoogleDuo_icon.svg  
 Wikidata item: https://www.wikidata.org/wiki/Q24090749  
-Wikipedia file: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg
 Wikipedia article: https://en.wikipedia.org/wiki/Google_Duo  
 
-Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
-Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Keep.jpg  
+Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg
+Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Duo_logo_2018.png
 
 ###### Changes  
 `{{Vector version available|Google Keep icon.svg}}`
