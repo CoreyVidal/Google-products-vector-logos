@@ -51,7 +51,9 @@ Source page: https://cloud.google.com/products/#g-suite
 ## Editing in Adobe Illustrator (.ai)  
 Artboard (Adobe Illustrator) should be 192 x 192px  
 Artboard should start at the bottom-left (or top-left?) with coordinates 0,0  
-Remove all custom layer names  
+Artboard should be named after the product icon. Example: "Google Maps"  
+Root layer name should be "Content"  
+Remove all other custom layer names  
 Swap any layer that uses Fill Opacity to regular Opacity  
 Replace any <image> layers with SVG Filters  
 Make sure to use only one instance of material-drop-shadow  
