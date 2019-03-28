@@ -27,43 +27,6 @@ SVGs must not contain embedded image rasters.
   
 #### Tips from Wikimedia Commons  
 https://commons.wikimedia.org/wiki/Help:Illustrator  
-  
-## Products  
-  
-#### Google Keep  
-Wikimedia file: https://commons.wikimedia.org/wiki/File:Google_Keep_icon.svg  
-Wikidata item: https://www.wikidata.org/wiki/Q7854718  
-Wikipedia file: https://en.wikipedia.org/wiki/File:Google_Keep_icon.svg  
-Wikipedia article: https://en.wikipedia.org/wiki/Google_Keep  
-
-Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
-Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Keep.jpg  
-
-###### Changes  
-`{{Vector version available|Google Keep icon.svg}}`
-  . . _(Google Keep.jpg >> Google Keep icon.svg)_
-
-###### Source  
-Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg  
-Source page: https://cloud.google.com/products/#g-suite  
-
-#### Google Duo  
-Wikimedia file: https://commons.wikimedia.org/wiki/File:GoogleDuo_icon.svg  
-Wikidata item: https://www.wikidata.org/wiki/Q24090749  
-Wikipedia article: https://en.wikipedia.org/wiki/Google_Duo  
-
-Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg
-Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Duo_logo_2018.png
-
-###### Changes  
-`{{Vector version available|Google Keep icon.svg}}`
-  . . _(Google Keep.jpg >> Google Keep icon.svg)_
-
-###### Source  
-Source file: https://www.gstatic.com/duo/desktop/images/duo.svg  
-Source page: https://duo.google.com/  
-
-
 
 ## Editing in Adobe Illustrator (.ai)  
 Artboard (Adobe Illustrator) should be 192 x 192px  
