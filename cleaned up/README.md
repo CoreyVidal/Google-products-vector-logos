@@ -45,6 +45,9 @@ Source file: (custom)
 #### Other Versions  
 https://en.wikipedia.org/wiki/Google_Voice#/media/File:GoogleVoiceLogoVector.svg  
 https://commons.wikimedia.org/wiki/File:Google_voice.svg  
+https://id.wikipedia.org/wiki/Berkas:Voice-logo.png  
+https://pt.wikipedia.org/wiki/Ficheiro:Google_voice.svg  
+https://it.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg  
 
 
 #### Changes  
