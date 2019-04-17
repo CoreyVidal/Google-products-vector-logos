@@ -81,3 +81,29 @@ This is the official product icon/logo for Google ______. It follows Google's Ma
 
 #### Categories  
 Google logos, Google SVG logos, Google software, Material Design product icons
+
+
+
+#### Google Keep example
+
+```
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=This is the official product icon/logo for Google Keep. It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html}}
+|date=2013-03-20
+|source=https://cloud.google.com/images/icons/ic_keep_24dp.svg
+|author=Google LLC<br />SVG by [[User:CoreyVidal|CoreyVidal]]
+|permission=
+|other versions=
+|other fields={{Igen|Adobe|+|s=tl}}
+}}
+
+=={{int:license-header}}==
+{{PD-textlogo}}
+{{Trademarked}}
+
+[[Category:Google logos]]
+[[Category:Google SVG logos]]
+[[Category:Google software]]
+[[Category:Material Design product icons]]
+```
