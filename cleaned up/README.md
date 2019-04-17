@@ -34,15 +34,18 @@ Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Duo_log
   . . _(Google_Duo_logo_2018.png >> GoogleDuo icon.svg)_
 
 ## Google Voice  
-Wikimedia file: 
-Wikidata item: 
-Wikipedia article: 
+Wikimedia file:  
+Wikidata item: https://www.wikidata.org/wiki/Q51712  
+Wikipedia article: https://en.wikipedia.org/wiki/Google_Voice  
 
 #### Source  
-Source page: (custom)
-Source file: (custom)
+Source page: (custom)  
+Source file: (custom)  
 
 #### Other Versions  
+https://en.wikipedia.org/wiki/Google_Voice#/media/File:GoogleVoiceLogoVector.svg  
+https://commons.wikimedia.org/wiki/File:Google_voice.svg  
+
 
 #### Changes  
 `{{Vector version available|Google Keep icon.svg}}`
