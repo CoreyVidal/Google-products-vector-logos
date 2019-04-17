@@ -43,10 +43,11 @@ Source page: (custom)
 Source file: (custom)  
 
 #### Other Versions  
-https://en.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg
+https://en.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg  
 https://commons.wikimedia.org/wiki/File:Google_voice.svg  
 https://id.wikipedia.org/wiki/Berkas:Voice-logo.png  
-https://tr.wikipedia.org/wiki/Dosya:Google_Voice_logo.png
+https://tr.wikipedia.org/wiki/Dosya:Google_Voice_logo.png  
+https://zh.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg  
 
 
 #### Changes  
