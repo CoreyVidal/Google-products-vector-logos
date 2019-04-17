@@ -82,4 +82,4 @@ It follows Google's Material Design guidelines: https://material.io/design/icono
 
 
 #### Categories  
-Google logos, Google SVG logos, Google software, Material Design product icons, Logos with transparent background, SVG logos of companies associated with computing
+Google logos, Google SVG logos, Google software, Material Design product icons
