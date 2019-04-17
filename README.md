@@ -61,3 +61,25 @@ Check there's no floating point errors
 
 ## Replacing existing media
 On Wikimedia Commons, check https://commons.wikimedia.org/wiki/Special:GlobalUsage
+
+## Uploading
+https://commons.wikimedia.org/wiki/Special:UploadWizard  
+
+
+Creative Commons CC0 Waiver (release all rights, like public domain: legal code)
+
+#### Image title
+Google ______ icon
+
+#### Caption
+Product icon for Google ______
+
+
+#### Description
+This is the official product icon/logo for Google ______.
+
+It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html
+
+
+#### Categories  
+Google logos, Google SVG logos, Google software, Material Design product icons
