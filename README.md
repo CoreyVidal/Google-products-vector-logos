@@ -76,9 +76,7 @@ Product icon for Google ______
 
 
 #### Description
-This is the official product icon/logo for Google ______.
-
-It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html
+This is the official product icon/logo for Google ______. It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html
 
 
 #### Categories  
