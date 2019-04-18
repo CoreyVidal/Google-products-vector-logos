@@ -83,6 +83,10 @@ This is the official product icon/logo for Google ______. It follows Google's Ma
 Google logos, Google SVG logos, Google software, Material Design product icons
 
 
+#### Deletion  
+Wikimedia Commons: https://commons.wikimedia.org/wiki/Template:Vector_version_available  
+Wikipedia: https://en.wikipedia.org/wiki/Template:Vector_version_available  
+
 
 #### Google Keep example
 
