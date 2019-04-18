@@ -48,8 +48,8 @@ https://commons.wikimedia.org/wiki/File:Google_voice.svg
 https://id.wikipedia.org/wiki/Berkas:Voice-logo.png  
 https://tr.wikipedia.org/wiki/Dosya:Google_Voice_logo.png  
 https://zh.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg  
-
-
-#### Changes  
+  
+#### Publishing  
+filename.ext >> Google Voice icon.svg  
 `{{Vector version available|Google Voice icon.svg}}`
   . . _(filename.ext >> Google Voice icon.svg)_
