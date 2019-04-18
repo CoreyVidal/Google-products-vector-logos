@@ -14,7 +14,7 @@ https://commons.wikimedia.org/wiki/File:Google_Keep.jpg
 
 #### Changes  
 `{{Vector version available|Google Keep icon.svg}}`
-  . . _(Google Keep.jpg >> Google Keep icon.svg)_
+  . . _(filename.ext >> Google Keep icon.svg)_
 
 ## Google Duo  
 Wikimedia file: https://commons.wikimedia.org/wiki/File:GoogleDuo_icon.svg  
@@ -30,8 +30,8 @@ Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg
 Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Duo_logo_2018.png  
 
 #### Changes  
-`{{Vector version available|Google Keep icon.svg}}`
-  . . _(Google_Duo_logo_2018.png >> GoogleDuo icon.svg)_
+`{{Vector version available|GoogleDuo icon.svg}}`
+  . . _(filename.ext >> GoogleDuo icon.svg)_
 
 ## Google Voice  
 Wikimedia file: https://commons.wikimedia.org/wiki/File:Google_Voice_icon.svg  
@@ -51,5 +51,5 @@ https://zh.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg
 
 
 #### Changes  
-`{{Vector version available|Google Keep icon.svg}}`
-  . . _(____________.jpg >> Google Voice icon.svg)_
+`{{Vector version available|Google Voice icon.svg}}`
+  . . _(filename.ext >> Google Voice icon.svg)_
