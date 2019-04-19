@@ -51,5 +51,6 @@ https://zh.wikipedia.org/wiki/File:GoogleVoiceLogoVector.svg
   
 #### Publishing  
 filename.ext >> Google Voice icon.svg  
+  
 `{{Vector version available|Google Voice icon.svg}}`
-  . . _(filename.ext >> Google Voice icon.svg)_
+  . . _(Added notification/link to superior vector version)_
