@@ -9,8 +9,8 @@ Source file: https://cloud.google.com/images/icons/ic_keep_24dp.svg
 
 #### Other Versions  
 https://en.wikipedia.org/wiki/File:Google_Keep_icon.svg  
-https://en.wikipedia.org/wiki/File:Google_Keep_icon.png  
-https://commons.wikimedia.org/wiki/File:Google_Keep.jpg  
+~~https://en.wikipedia.org/wiki/File:Google_Keep_icon.png~~  
+~~https://commons.wikimedia.org/wiki/File:Google_Keep.jpg~~  
 
 #### Changes  
 `{{Vector version available|Google Keep icon.svg}}`
