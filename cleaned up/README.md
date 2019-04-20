@@ -26,7 +26,7 @@ Source page: https://duo.google.com/
 Source file: https://www.gstatic.com/duo/desktop/images/duo.svg  
 
 #### Other Versions  
-Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg  
+~~Original Wikipedia image: https://en.wikipedia.org/wiki/File:Google_Duo_logo.svg~~  
 Original Wikimedia image: https://commons.wikimedia.org/wiki/File:Google_Duo_logo_2018.png  
 
 #### Changes  
