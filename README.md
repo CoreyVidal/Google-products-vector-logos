@@ -85,8 +85,13 @@ Wikimedia Commons: https://commons.wikimedia.org/wiki/Template:Vector_version_av
 Wikipedia: https://en.wikipedia.org/wiki/Template:Vector_version_available  
   
 #### Deletion  
-Wikimedia Commons:
-Wikipedia:
+Wikimedia Commons:  
+click 'Nominate for deletion' along left-side navigation  
+  
+**Why should this file be deleted?**  
+`{{Vector version available|Google ______ icon.svg}}`  
+  
+Wikipedia:  
   
 ## Examples  
 #### Google Keep  
