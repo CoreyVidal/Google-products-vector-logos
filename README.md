@@ -58,38 +58,39 @@ Format Document: Alt + Shift + F
 Replace/update lines 1 and 2  
 Remove `name="material-drop-shadow"`  
 Check there's no floating point errors  
-
-## Replacing existing media
-On Wikimedia Commons, check https://commons.wikimedia.org/wiki/Special:GlobalUsage
-
-## Uploading
+  
+## Uploading  
 https://commons.wikimedia.org/wiki/Special:UploadWizard  
-
-
-Creative Commons CC0 Waiver (release all rights, like public domain: legal code)
-
-#### Image title
-Google ______ icon
-
-#### Caption
-Product icon for Google ______
-
-
-#### Description
-This is the official product icon/logo for Google ______. It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html
-
-
+  
+Creative Commons CC0 Waiver (release all rights, like public domain: legal code)  
+  
+#### Image title  
+Google ______ icon  
+  
+#### Caption  
+Product icon for Google ______  
+  
+#### Description  
+This is the official product icon/logo for Google ______. It follows Google's Material Design guidelines: https://material.io/design/iconography/product-icons.html  
+  
 #### Categories  
-Google logos, Google SVG logos, Google software, Material Design product icons
-
-
-#### Deletion  
+Google logos, Google SVG logos, Google software, Material Design product icons  
+  
+## Other versions  
+#### Checking for usage elsewhere  
+Wikimedia Commons: https://commons.wikimedia.org/wiki/Special:GlobalUsage  
+  
+#### Replace/upgrade existing versions  
 Wikimedia Commons: https://commons.wikimedia.org/wiki/Template:Vector_version_available  
 Wikipedia: https://en.wikipedia.org/wiki/Template:Vector_version_available  
-
-
-#### Google Keep example
-
+  
+#### Deletion  
+Wikimedia Commons:
+Wikipedia:
+  
+## Examples  
+#### Google Keep  
+  
 ```
 =={{int:filedesc}}==
 {{Information
